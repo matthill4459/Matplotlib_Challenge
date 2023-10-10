@@ -3,7 +3,7 @@
 
 
 ## Description
-Scan through a tumor study to find relations between drug effectiveness and tumors. There are 3 parts to this code
+ Will scan through a drug tretment study to find relations between drug effectiveness and tumors volume. There are 6 parts to this code.
 
 ### Cleaning Data - starts (cell 3)
 This is where we will find any discrepancies within the data and either fix it our purge it. we will then make this into a new Data Frame
